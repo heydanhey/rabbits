@@ -1,0 +1,31 @@
+{
+  "version": "6368026a",
+  "entry": {
+    "module": "/build/entry.client-IDA73A5A.js",
+    "imports": [
+      "/build/_shared/chunk-YBOPWANX.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-WCOVYMQ3.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/index": {
+      "id": "routes/index",
+      "parentId": "root",
+      "index": true,
+      "module": "/build/routes/index-JL2Q57EM.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    }
+  },
+  "url": "/build/manifest-6368026A.js"
+}
