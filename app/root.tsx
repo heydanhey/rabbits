@@ -22,7 +22,6 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Rabbits</h1>
         <Outlet />
         <ScrollRestoration />
         <Scripts />

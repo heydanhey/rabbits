@@ -1,5 +1,5 @@
 {
-  "version": "6368026a",
+  "version": "54ced78f",
   "entry": {
     "module": "/build/entry.client-IDA73A5A.js",
     "imports": [
@@ -10,7 +10,7 @@
     "root": {
       "id": "root",
       "path": "",
-      "module": "/build/root-WCOVYMQ3.js",
+      "module": "/build/root-A2S3UGK2.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -20,12 +20,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-JL2Q57EM.js",
+      "module": "/build/routes/index-VZ2XR4LL.js",
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-6368026A.js"
+  "url": "/build/manifest-54CED78F.js"
 }

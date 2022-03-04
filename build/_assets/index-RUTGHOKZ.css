@@ -1,0 +1,20 @@
+body {
+  background: url('/watercolor.png');
+  margin: 0;
+}
+
+h1 {
+  background-color: pink;
+  padding: 12px;
+  margin: 0;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  background-color: white;
+  padding: 20px;
+}
